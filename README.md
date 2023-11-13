@@ -6,7 +6,7 @@
 사용된 기술 : Selenium + Appium + Python
 - Selenium  : 4.14.0  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 - Appium-Python-Client : v3.1.0
-- Python : 3.11.5
+- Python : 3.11.5  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   
 [VIRNECT Remote_Web UI 자동화]
 #### <스터디를 진행하면서 코드와 내용이 변경될 수 있습니다.>
