@@ -7,7 +7,8 @@
 - Selenium  : 4.14.0
 - Appium-Python-Client : v3.1.0
 - Python : 3.11.5
-  [VIRNECT Remote_Web UI 자동화]
+  
+[VIRNECT Remote_Web UI 자동화]
 #### <스터디를 진행하면서 코드와 내용이 변경될 수 있습니다.>
 
 https://github.com/stgim875/sample_code/assets/71519636/ebe4e978-8a2f-4f83-9392-dd2672286fa8
